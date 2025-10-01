@@ -47,25 +47,25 @@ Crashes Game
 - Minecraft Story Mode Skin pack.
 
 
-Testing still required :
-Mass effect mashup pack
-Skyrim machup pack
-Halo Mash-up pack.
-Festive Mash-up pack.
-Greek Mythology Mash-up pack.
-Halloween Mash-up pack.
-Halo 5: Guardians Mash-up pack.
-Chinese Mythology Mash-up pack
-Redstone Specialists Skin pack.
-Chinese Mythology Mash-up pack.
-Campfire Tales Skin pack.
-Fallout Mash-up pack.
-Villains Skin pack.
-Power Rangers Skin pack.	
-Adventure Time Mash-up pack
-Magic: The Gathering Skin pack.
-Stranger Things Skin pack.
-Pirates of the Caribbean Mash-up pack.
-The Nightmare Before Christmas Mash-up
+Un-Tested:
+- Mass effect mashup pack
+- Skyrim machup pack
+- Halo Mash-up pack.
+- Festive Mash-up pack.
+- Greek Mythology Mash-up pack.
+- Halloween Mash-up pack.
+- Halo 5: Guardians Mash-up pack.
+- Chinese Mythology Mash-up pack
+- Redstone Specialists Skin pack.
+- Chinese Mythology Mash-up pack.
+- Campfire Tales Skin pack.
+- Fallout Mash-up pack.
+- Villains Skin pack.
+- Power Rangers Skin pack.	
+- Adventure Time Mash-up pack
+- Magic: The Gathering Skin pack.
+- Stranger Things Skin pack.
+- Pirates of the Caribbean Mash-up pack.
+- The Nightmare Before Christmas Mash-up
 Steven Universe Mash-up pack.
 Toy Story Mash-up pack.
