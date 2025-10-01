@@ -5,9 +5,9 @@ Notes:
 - texture pack dlc are not supported 
 - mash up packs seems to crach the console with a fatal error (needs more testing)
 - for custom skins needs to be 64x32 use the folowing tools
-	pck creator (version 5 recomended) : https://github.com/PhoenixARC/-PCK-Studio
-	velocity convert .pck to .live : https://github.com/hetelek/Velocity
-	video tutorial : https://www.youtube.com/watch?v=aQ2WRzad22M
+	- pck creator (version 5 recomended) : https://github.com/PhoenixARC/-PCK-Studio
+	- velocity convert .pck to .live : https://github.com/hetelek/Velocity
+	- video tutorial : https://www.youtube.com/watch?v=aQ2WRzad22M
 
 Fully compatible : skins with no apparent errors
 - Summer of arcade skin pack
